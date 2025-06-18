@@ -6,6 +6,7 @@ import { PrimeNG } from 'primeng/config';
 import Aura from "@primeng/themes/aura";
 import "primeicons/primeicons.css";
 // import '../src/styles.scss'; // Make sure this file contains @tailwind
+import '../src/tailwind.output.css';
 
 
 function provideTheme(): void {
